@@ -32,6 +32,6 @@ class MediaValidacao {
             System.out.println("Sua média foi " + media + " aluno reprovado");
         }
 
-        scanner.close(); // Close the scanner to release resources
+        scanner.close(); 
     }
     }
